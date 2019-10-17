@@ -2,7 +2,7 @@
 title: About
 ---
 
-Omeka S is a web publication system for universities, galleries, libraries, archives, and museums. It creates a local network of independently curated exhibits sharing a collaboratively built pool of items and their metadata.
+This took a bit to figure out, Ethan. But I think I've got it. If you'll let me do the other work, starting when I said, then I think I can get a site that looks like this to work for everyone else to start on their documentation.
 
 The sections of this manual correspond to the navigation sections on the left-hand side of the [administrative dashboard](admin-dashboard.md) of an Omeka S Installation: 
 
