@@ -1,6 +1,6 @@
 site_name: Omeka S User Manual
 theme: 'readthedocs'
-repo_url: 'https://github.com/geyerbri/omeka-docs-test'
+repo_url: 'http://github.com/geyerbri/omeka-docs-test'
 extra_css:
     - css/extra.css
 pages:
