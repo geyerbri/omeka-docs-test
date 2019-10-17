@@ -3,7 +3,7 @@ theme: 'readthedocs'
 repo_url: 'https://github.com/geyerbri/omeka-docs-test'
 extra_css:
     - css/extra.css
-pages:
+nav:
     - 'Home': 'index.md'
     - 'Accessibility Statement': 'accessibility.md'
     - 'Installing': 'install.md'
