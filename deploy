@@ -1,2 +1,0 @@
-mkdocs gh-deploy
-rsync -rv --delete site/
