@@ -1,3 +1,3 @@
 #!/bin/bash
-mkdocs gh-deploy
-rmdir site
+#mkdocs gh-deploy
+rm -f -r file
