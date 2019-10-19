@@ -1,4 +1,4 @@
-site_name: Test Docs Sites
+site_name: Test Docs Site
 repo_url: 'https://github.com/geyerbri/omeka-docs-test'
 extra_css:
     - css/extra.css
